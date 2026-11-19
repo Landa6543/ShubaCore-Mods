@@ -1,0 +1,13 @@
+{
+  "formatVersion": 1,
+  "code": "SHUBA-394A",
+  "name": "Test Icon Instance",
+  "gameVersion": "1.21.1",
+  "loader": "Fabric",
+  "loaderVersion": "21.1.265",
+  "iconBase64": "iVBORw0KGgoAAAANSUhEUgAAAAIAAAACCAYAAABytg0kAAAAEklEQVR42mNk+M/wHwMDAwMDDAAEAgIB5R5hHwAAAABJRU5ErkJggg==",
+  "createdAt": "2026-11-19T01:04:48.361Z",
+  "generator": "ShubaCore Pro v1.1.0",
+  "modsCount": 0,
+  "mods": []
+}
